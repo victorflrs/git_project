@@ -1,0 +1,11 @@
+div {
+    width: 400px;
+    margin: 50px auto;
+    background-color: black;
+    padding: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blue;
+  }
